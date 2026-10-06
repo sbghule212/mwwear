@@ -368,6 +368,7 @@ header.site .cta-desktop {
 /* ============ HERO ============ */
 .hero {
   position: relative;
+  height: 800px;
   min-height: 100vh;
   display: flex;
   align-items: flex-end;
